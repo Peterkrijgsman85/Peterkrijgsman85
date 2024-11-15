@@ -8,8 +8,8 @@ Hi my name is Peter and I am a project manager at LanTel. As a project manager I
 I am skilled in: UCaaS / Projectmanagement / MkDocs
 
 ## 🛠️ Personal projects
-### [**Onlinebijbelverklaring.nl**](https://onlinebijbelverklaring.nl)  
-_Complete online Bible commentary, powered by mkdocs_
+### **Building [Onlinebijbelverklaring.nl](https://onlinebijbelverklaring.nl)**
+_Complete online Multi Bible commentary (Reformed position) webpage, powered by mkdocs_
 
 I started this project after doing a few pilot projects for documentation webpages with MkDocs as a basis. That’s how I got to know MkDocs. In the meantime, the website has grown into a large project.
 
@@ -25,7 +25,7 @@ We have been ensuring that organizations are optimally accessible for over 25 ye
 
 We do this by communicating clearly to our relations in the things we do. We are passionate about our work and are flexible. This allows us to think along with our customers with a fresh perspective and offer the most suitable solution.
 
-As a project manager, I am responsible for the proper delivery of projects. In short, this involves: Maintaining contact with the client and internal organizational departments, Planning, initiating and coordinating activities, Supporting team members, Monitoring the progress of the implementation, Administrative processing of contracts that belong to the project.
+As a project manager, I am responsible for the proper delivery of projects. In short, this involves: Maintaining contact with the client and internal organizational departments, Planning, initiating and coordinating activities, Supporting team members,Monitoring the progress of the implementation, Administrative processing of contracts that belong to the project
 
 ## Shields
 [![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
