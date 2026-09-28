@@ -45,6 +45,7 @@ Toegankelijke bijbelteksten en verklaringen voor iedereen. Een open-source proje
 - **Website**: [pekri.nl](https://pekri.nl)
 
 ## Shields
+[![Built with Zensical](https://shields.io)](https://zensical.org/)
 [![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
